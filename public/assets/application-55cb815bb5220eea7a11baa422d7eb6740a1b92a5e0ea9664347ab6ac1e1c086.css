@@ -355,8 +355,8 @@ h3 {
 
 @font-face {
   font-family: "Glyphicons Halflings";
-  src: url(/assets/bootstrap/glyphicons-halflings-regular-0805fb1fe24235f70a639f67514990e4bfb6d2cfb00ca563ad4b553c240ddc33.eot);
-  src: url(/assets/bootstrap/glyphicons-halflings-regular-0805fb1fe24235f70a639f67514990e4bfb6d2cfb00ca563ad4b553c240ddc33.eot?#iefix) format("embedded-opentype"), url(/assets/bootstrap/glyphicons-halflings-regular-403acfcf0cbaebd1c28b404eec442cea53642644b3a73f91c5a4ab46859af772.woff2) format("woff2"), url(/assets/bootstrap/glyphicons-halflings-regular-0703369a358a012c0011843ae337a8a20270c336948a8668df5cb89a8827299b.woff) format("woff"), url(/assets/bootstrap/glyphicons-halflings-regular-7c9caa5f4e16169b0129fdf93c84e85ad14d6c107eb1b0ad60b542daf01ee1f0.ttf) format("truetype"), url(/assets/bootstrap/glyphicons-halflings-regular-22d0c88a49d7d0ebe45627143a601061a32a46a9b9afd2dc7f457436f5f15f6e.svg#glyphicons_halflingsregular) format("svg");
+  src: url(/assets/bootstrap/glyphicons-halflings-regular-7007e16ea0b257caa20f5e967e22d9c42d871db4e22a5691fe16a4cee74c0a28.eot);
+  src: url(/assets/bootstrap/glyphicons-halflings-regular-7007e16ea0b257caa20f5e967e22d9c42d871db4e22a5691fe16a4cee74c0a28.eot?#iefix) format("embedded-opentype"), url(/assets/bootstrap/glyphicons-halflings-regular-1e2841eb0c4f4d3312e8ecdc3cc4299a1c584d78a26dc2bf6afecaae4e3c98f8.woff2) format("woff2"), url(/assets/bootstrap/glyphicons-halflings-regular-c31d842bc4ba7d64a6ebf1b3e3703559f39d435a6e713c5f120ae596f4809cdc.woff) format("woff"), url(/assets/bootstrap/glyphicons-halflings-regular-35aee8c11b4e329e3af1821b9d17faf80fe4692654d737127eb4d2a8ad217bdc.ttf) format("truetype"), url(/assets/bootstrap/glyphicons-halflings-regular-833bb1f6eb2f645f25d5d1b6de5c2e7bcc68f3c9c3e9d681771b8651446d1b27.svg#glyphicons_halflingsregular) format("svg");
 }
 
 /* line 24, ../../../.rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/bootstrap-sass-3.4.1/assets/stylesheets/bootstrap/_glyphicons.scss */
@@ -9074,7 +9074,7 @@ td.visible-print {
 
 /* line 24, app/assets/stylesheets/custom.css.scss */
 .jumbotron {
-  background-image: url(/assets/sunset-017ad4799ae09215ecebe24358f50acdaad99c49205ee2190c8f928007081056.jpg);
+  background-image: url(/assets/sunset-ce7bfb22cefaa6ebeed10b6445f4d8b968c5e436a30d18449558412b0feec801.jpg);
   background-size: cover;
   color: white;
   height: 470px;
