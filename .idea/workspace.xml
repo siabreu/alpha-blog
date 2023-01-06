@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae41799b-913b-406f-924a-e3ea415ff3a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/javascript/components/Colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alpha-blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alpha-blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/article.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/article.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/articles/_article.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/articles/_article.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/components/HelloWorld.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/components/HelloWorld.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/users/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/users/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-922c672d0aa29c9507d702c3588611de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/application-55cb815bb5220eea7a11baa422d7eb6740a1b92a5e0ea9664347ab6ac1e1c086.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/application-55cb815bb5220eea7a11baa422d7eb6740a1b92a5e0ea9664347ab6ac1e1c086.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/application-ee5c162617e3f52fbd09293c3a058b515fa787e0e78dad4b85112a72af1c5df6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/application-ee5c162617e3f52fbd09293c3a058b515fa787e0e78dad4b85112a72af1c5df6.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-35aee8c11b4e329e3af1821b9d17faf80fe4692654d737127eb4d2a8ad217bdc.ttf.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-35aee8c11b4e329e3af1821b9d17faf80fe4692654d737127eb4d2a8ad217bdc.ttf.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-7007e16ea0b257caa20f5e967e22d9c42d871db4e22a5691fe16a4cee74c0a28.eot.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-7007e16ea0b257caa20f5e967e22d9c42d871db4e22a5691fe16a4cee74c0a28.eot.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-833bb1f6eb2f645f25d5d1b6de5c2e7bcc68f3c9c3e9d681771b8651446d1b27.svg.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-833bb1f6eb2f645f25d5d1b6de5c2e7bcc68f3c9c3e9d681771b8651446d1b27.svg.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/cable-c4c07837e5c1a58d5bb1dc76a29b22becbe2ba8410a078450461b2bd47b8a7b8.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/cable-c4c07837e5c1a58d5bb1dc76a29b22becbe2ba8410a078450461b2bd47b8a7b8.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/custom-0720f7966b4a530d5795eeeddcc5743766236cc72193b321613097ee2d0360d5.css.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/custom-0720f7966b4a530d5795eeeddcc5743766236cc72193b321613097ee2d0360d5.css.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/manifest-ca9e2b4b47137d189ca29ea59f1f88a08e88a509b3c1799865f217f62eb4fd6b.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/manifest-ca9e2b4b47137d189ca29ea59f1f88a08e88a509b3c1799865f217f62eb4fd6b.js.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +38,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
   </component>
   <component name="ProjectId" id="2JrjkGOKN0nISnn9e8OZzv5mzVP" />
   <component name="ProjectViewState">
@@ -147,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672843236758</updated>
       <workItem from="1672843237886" duration="253000" />
-      <workItem from="1672843494216" duration="13413000" />
+      <workItem from="1672843494216" duration="31780000" />
     </task>
     <servers />
   </component>
