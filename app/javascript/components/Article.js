@@ -15,11 +15,23 @@ class Article extends React.Component {
             <small>Created by: {this.props.author},
               &nbsp;
               <Timestamp date={this.props.created_at} />, last updated:
-              {this.props.updated_at}</small>
+              <Timestamp date={this.props.updated_at} /></small>
           </div>
         </div>
       </React.Fragment>
     );
+  }
+
+  componentDidMount() {
+    var self = this;
+    setInterval(function () { self.forceUpdate() }, 5000);
+  }
+
+  componentWillUnmount() {
+    if (this._timer) {
+      clearInterval(this._timer);
+      this._timer = null;
+    }
   }
 }
 
