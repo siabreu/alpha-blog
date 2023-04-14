@@ -1,6 +1,6 @@
-import React from 'react'
-import { SketchPicker } from 'react-color'
+import React from "react"
 import PropTypes from "prop-types"
+import { SketchPicker } from "react-color"
 
 class Colorpicker extends React.Component {
 
@@ -8,25 +8,26 @@ class Colorpicker extends React.Component {
         super(props);
 
         this.state = { selector: props.selector };
-
         this.handleChange = this.handleChange.bind(this);
     }
 
     handleChange = (color) => {
         document.body.style.background = color.hex;
-        // console.log(color.hex);
-        let elem = document.querySelector('#'+this.state.selector);
+
+        let elem = document.querySelector("#" + this.state.selector);
 
         elem.value = color.hex;
-    };
+    }
 
     render() {
         return (
             <React.Fragment>
-                <SketchPicker   color = {this.props.color}
-                                onChange={this.handleChange} />
+                <SketchPicker
+                    color={this.props.color}
+                    onChange={this.handleChange}
+                />
             </React.Fragment>
-        );
+        )
     }
 }
 
